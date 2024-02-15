@@ -27,10 +27,27 @@ Pas de lien nécéssaire entre sexualité et reproduction. (Prévention, avortem
 
 Cette asymétrie n'est pas légitime ni nécéssaire. Les mouvements **féministes et LGBT** pronent donc le **principe d'égalité et de non-discrimination** entre toutes les formes d'identité de genre et de pratiques sexuelles.  
   
-Notre société est **égalitariste**, c'est à dire qu'elle tend vers l'égalité. Mais même si les discriminations et stigmatisations sont illégitimes ou illégales elles persistent tout de même. Ces discriminations sont ancrées dans l'organisation sociale et permettent de maintenir en régime égalitaire des inégalités qui existaient en régime hiérarchique.
+Notre société est **égalitariste**, c'est à dire qu'elle tend vers l'égalité. Mais même si les discriminations et stigmatisations sont illégitimes voire illégales elles persistent tout de même. Ces discriminations sont ancrées dans l'organisation sociale et permettent de maintenir en régime égalitaire des inégalités qui existaient en régime hiérarchique.
 
-> **_Note :_** Le passage d'un système hiérarchisé à un système égalitaire signifie que les anciens subalternes accèdent à des droits qui étaient des privilèges pour d'autres (qui ont donc le seum)
+> **_Note :_** Le passage d'un système hiérarchisé à un système égalitaire signifie que les anciens subalternes accèdent à des droits qui étaient des privilèges pour d'autres (qui ont donc **le seum**)
+
+> **_Le seum :_** Origine de tous les problèmes.
 
 ## Histoire du patriarcat
 
-### Patriarcat traditionnel
+### Patriarcat traditionnel (paradigme cosmologique)
+Asymétrie légitime pour des raisons religieuses et symboliques. Dans tous les récits des origines de pratiquement toutes les sociétés, le féminin est une puissance porteuse de déséquilibre et de chaos (ex: Eve qui influence Adam pour croquer dans la pomme.). Il est donc nécéssaire que ce soit l'homme qui la domine.  
+  
+En réalité, la reproduction du groupe est important, il faut donc le controler. Ce controle se fait à travers des échanges, des dons et des interdépendances qui permettent une stabilisation. Les mariages qui correspondent à des échanges de femmes sont des relations d'échanges de patrimoine.
+
+### Patriacat moderne (paradigme naturaliste)
+A partir du 18e siècle on passe d'une mosaïque de communautés à un état-nation moderne engagé dans la révolution industrielle.  
+Le monde moderne n'a plus besoin de dieu. La nature est donc utilisée pour décrire la réalité du monde. C'est à ce moment là que le point de vue de l'espèce est mis en place. **La nature impose ses règles** qui ne sont ni politiques, ni relatives mais universelles. La signification du monde est pris en charge par la science.  
+  
+Dans le paradigme naturaliste, le genre est causé par le sexe et il est une projection sur le monde social de la difference des sexes. En effet, la hierarchie entre le masculin et le feminin n'est pas remise en question mais elle est justifiée par les differences de sexe.  
+Les femmes sont définies par la nature de leur corps et par la vocation reproductive. Les hommes, au contraire, au contraire ont une responsabilité biologique furtive dans la reproduction. Cela les rend donc disponible pour la vie citoyenne. En effet, pour être citoyen il faut être éloigné de la nature et proche de la culture. Une femme ne peut donc pas être citoyenne.  
+**Le corps de la femme appartient à sa nation.** Des lois interdisent la contraception et l'avortement jusque dans les années 1970. De son coté, l'homme est un ouvrier pour faire tourner la puissance économique de l'état, un militaire pour faire la guerre ou un agent de colonialisme pour conquérir le monde.  
+  
+La seule sexualité normale est l'**hétérosexualité fécondante**. L'homosexualité et les personnes présentant une masculinité efféminée sont vues comme le symptôme d'une dégénérescence de la race. La nation a besoin de masculinité virile venant de ses ouvriers et guerriers. L'homophobie est donc un signe de bonne santé mentale.  
+  
+L'**individu moderne** est un être de raison et à travers la citoyenneté ce ne sont plus les lois divines mais celles des hommes qui gouvernent. Les citoyens mettent place un ordre politique et démocratique, ils deviennent égaux en droits. Mais cette égalité s'arrête à la difference de sexe. Donc le féminisme apparait et une definition constructiviste s'oppose à la definition naturaliste
