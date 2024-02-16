@@ -7,3 +7,6 @@
 [Yelp dataset](https://www.yelp.com/dataset/download)
 
 ![mind map](mindMap.png "analyse biais")
+
+## Analyse sociologie
+[sociologie du genre](sociologie.md)
